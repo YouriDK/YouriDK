@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YouriDK
-- 👀 I’m interested in Javascript and his aspect ( React, Node etc...)
+- 👀 I’m interested in Javascript and his aspects ( React, Node etc...)
 - 🌱 I’m currently learning (Data structure, NestJS etc..)
 - 💞️ I’m looking to collaborate on Cool project to improve my portfolio
 - 📫 How to reach me ...
